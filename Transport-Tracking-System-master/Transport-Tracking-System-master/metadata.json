@@ -1,0 +1,10 @@
+{
+  "name": "Transport Tracking System",
+  "description": "A real-time transport tracking application with live bus tracking, ETA calculations, delay alerts, passenger analytics, and Gemini-powered route optimization. Features dashboards for passengers, operators, and admins.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
